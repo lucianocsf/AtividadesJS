@@ -1,13 +1,4 @@
-let NomeCurso = 'Sistemas';
-let Falso = 'Falso';
-
-if (NomeCurso == 'Sistemas'){
-    console.log(NomeCurso);
-    }else{
-        console.log(Falso);
-    }
-
-console.log("");
+//Exercicio 12
 
 let n1 = 10;
 let n2 = 15;
@@ -22,6 +13,8 @@ if (n2 > n1){
 
 console.log("");
 
+//Exercicio 11
+
 let feminino = "F";
 let masculino = "M";
 
@@ -34,6 +27,8 @@ if (feminino == "F"){
 }
 
 console.log("");
+
+//Exercicio 10
 
 let nota1 = "10";
 let nota2 = "12";
@@ -48,7 +43,9 @@ if (media >= 10){
         console.log("Reprovado");
        }
 
-console.log("");
+console.log(""); 
+
+// Exercicio 1
 
 let nome = "Luciano";
 let idade = 29;
@@ -56,6 +53,8 @@ let idade = 29;
 console.log("Olá, meu nome é " + nome + " e eu tenho " + idade + " anos");
 
 console.log("");
+
+// Exercicio 2
 
 let numero1 = 30;
 let numero2 = 40;
@@ -72,6 +71,8 @@ console.log("Divisão: " + divisao);
 
 console.log("");
 
+// Exercicio 3
+
 let idade1 = 29;
 
 if (idade1 >= 18) {
@@ -82,6 +83,8 @@ if (idade1 >= 18) {
 
 console.log("");
 
+// Exercicio 4
+
 let numero11 = 10;
 let numero22 = 20;
 let numero33 = 50;
@@ -90,6 +93,8 @@ console.log("A média aritmética é: " + media4);
 
 console.log("");
 
+//Exercicio 5
+
 let nome5 = 'Luciano F';
 let salarioAtual = 2000;
 let aumento = 0.1;
@@ -97,6 +102,8 @@ let novoSalario = (salarioAtual * aumento) + salarioAtual;
 console.log("O novo salário de " + nome5 + " é: R$ " + novoSalario);
 
 console.log("");
+
+//Exercicio 6
 
 let a6 = 10;
 let b6 = 11;
@@ -110,6 +117,8 @@ if (a6 === b6) {
 }
 
 console.log("");
+
+//Exercicio 7
 
 let precoAVista = 2000;
 let numeroParcelas = 5;
@@ -133,6 +142,8 @@ let numeroParcelas = 5;
 
     console.log("");
 
+    //Exercicio 8
+
     let nomeAluno = 'Luciano C S Filho';
     let nota11 = 8;
     let nota22 = 6;
@@ -149,6 +160,8 @@ let numeroParcelas = 5;
     }
 
     console.log("");
+
+     //Exercicio 9
 
     let numero18 = 25;
     let numero28 = 10;
