@@ -10,7 +10,7 @@ let num2 = parseFloat(prompt("Digite o segundo número: "))
 
 console.log(`${calcPorcentagem(num1,num2)}% de ${num1} é ${num2}`);
 
-// ---------------------------------------------"Exercício 2"-------------------------------------
+//Exercício 2
 
  /* const prompt = require('prompt-sync')();
 
